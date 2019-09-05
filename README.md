@@ -1,5 +1,5 @@
 # Projects
-Learning more programming one day at a time. Here are some of the projects I've been working on: 
+Here are some of the projects I've been working on: 
 
 1) My first project is about Boston Airbnbs. I analyzed an InsideAirbnb.com dataset with Pandas & Matplotlib to gain some insight into the Boston Airbnb market. First I cleaned the data by eliminating the columns I didn't need, then I came up with some research questions and used Pandas to visualize and explore the listing data. Finally, I brought in parallel datasets from Chicago and New York City for comparison. Among other conclusions, I found that Boston is far and away the most expensive for Airbnbs out of the three cities. 
 
