@@ -5,7 +5,7 @@ Note: some of the tables are displayed improperly on Github, and for my third pr
 
 1) Scraping Brookline Property Listings  
 
-My most recent project is a Web Scraping Project where I scrape Brookline property listings from ColdwellBankHomes.com using the Python library Beautiful Soup. I walk the reader through how I found the HTML for each property's information that I wanted and then how I looped it to iterate over six pages's URLs. I then place this info into a Pandas dataframe and make some graphs with it using Seaborn and Matplotlib. 
+My most recent project is a web scraping project where I scrape Brookline property listings from ColdwellBankHomes.com using the Python library Beautiful Soup. I walk the reader through how I found the HTML for each property's information that I wanted and then how I looped it to iterate over six pages's URLs. I then place this info into a Pandas dataframe and make some graphs with it using Seaborn and Matplotlib. 
 (https://nbviewer.jupyter.org/github/benms11/Projects/blob/master/Scraping%20Brookline%20Property%20Listings.ipynb)
 
 2) Boston Airbnbs  
