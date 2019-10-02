@@ -1,7 +1,7 @@
 # Projects
 Here are some of the projects I've been working on: 
 
-Note: some of the tables are displayed improperly on Github, and for my third project linked none of the images show up. Please use the nbviewer link if this is the case!
+Note: some of the tables are displayed improperly on Github, and for my third project none of the linked images show up. Please use the Nbviewer link if this is the case!
 
 1) My most recent project is a Web Scraping Project where I scrape Brookline property listings from ColdwellBankHomes.com using the Python library Beautiful Soup. I walk the reader through how I found the HTML for each property's information that I wanted and then how I looped it to iterate over six pages's URLs. I then place this info into a Pandas dataframe and make some graphs with it using Seaborn and Matplotlib. 
 (https://nbviewer.jupyter.org/github/benms11/Projects/blob/master/Scraping%20Brookline%20Property%20Listings.ipynb)
