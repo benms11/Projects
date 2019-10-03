@@ -1,7 +1,7 @@
 # Projects
 Here are some of the projects I've been working on: 
 
-Note: some of the tables are displayed improperly on Github, and for my third project none of the linked images show up. Please use the Nbviewer link if this is the case!
+<strong>Note</strong>: some of the tables are displayed improperly on Github, and for my third project none of the linked images show up. Please use the Nbviewer link if this is the case!
 
 1) Scraping Brookline Property Listings  
 
